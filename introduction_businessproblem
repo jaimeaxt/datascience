@@ -8,10 +8,3 @@ a bad location could produces a financial disaster.
 In this project, lets will analyze a group of gasoline stations in order identifying clusters of neighborhoods, so I could be able
 to identify what kind of neigborhoods represent the majors revenues to the company. Then, when the company make decision
 to open a new store, they will know what kind of neihborhood have to search and choose.
-
-Data
-
-The data I will use is the latitude and longitude of each gasoline station of the company in Chile, obtained from National
-Energy Commission by API (https://api.cne.cl/). The data of neighborhoods will be obtained using the Foursquare API
-(https://api.foursquare.com). For simplicity I will not use information about density of population, parking lots, number
-of vehicles, traffic or others.
