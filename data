@@ -1,0 +1,6 @@
+Data
+
+The data I will use is the latitude and longitude of each gasoline station of the company in Chile, obtained from National
+Energy Commission by API (https://api.cne.cl/). The data of neighborhoods will be obtained using the Foursquare API
+(https://api.foursquare.com). For simplicity I will not use information about density of population, parking lots, number
+of vehicles, traffic or others.
